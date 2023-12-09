@@ -1,0 +1,6 @@
+include("mysql/connect_db.lua")
+include("mysql/create_tables.lua")
+include("createpass/sv_pass.lua")
+include("createpass/sv_playernewjoin.lua")
+include("createpass/sv_playerupdate.lua")
+print("FL-System 1.2 has been successfully loaded")

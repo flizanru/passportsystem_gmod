@@ -1,2 +1,7 @@
 # passportsystem_gmod
-The GMOD passport system
+GMOD Passport System - Beta 1.2
+
+Passport System for your Garry's Mod server.
+
+Primary commands:
+/pass - show passport
